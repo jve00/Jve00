@@ -21,12 +21,11 @@
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />    
-  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-     
-          
-          
-
+  <img align="center" alt="Rafa-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" /> 
 </div>
+
+
+
 
 # My social networks
   <div> 
@@ -38,6 +37,7 @@
     
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
+    <img src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif" alt="GIF" width="150" height="150" style="float: right;", align="right">    
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jve00}/count.svg" /></p> 
 <br>
 </div>
